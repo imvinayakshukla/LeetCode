@@ -26,3 +26,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0148-sort-list) |
+# Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0001-two-sum) |
+# Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0001-two-sum) |
