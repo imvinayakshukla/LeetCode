@@ -40,4 +40,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/imvinayakshukla/LeetCode/tree/master/0162-find-peak-element) |
+| [0441-arranging-coins](https://github.com/imvinayakshukla/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
+# Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/imvinayakshukla/LeetCode/tree/master/0441-arranging-coins) |
