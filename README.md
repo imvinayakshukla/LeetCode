@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/imvinayakshukla/LeetCode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
 # Hash Table
 |  |
@@ -38,4 +39,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/imvinayakshukla/LeetCode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
