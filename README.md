@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -47,4 +48,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0002-add-two-numbers) |
 | [0441-arranging-coins](https://github.com/imvinayakshukla/LeetCode/tree/master/0441-arranging-coins) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0002-add-two-numbers) |
