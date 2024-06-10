@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0148-sort-list) |
+| [1137-height-checker](https://github.com/imvinayakshukla/LeetCode/tree/master/1137-height-checker) |
 # Merge Sort
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/imvinayakshukla/LeetCode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/imvinayakshukla/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1137-height-checker](https://github.com/imvinayakshukla/LeetCode/tree/master/1137-height-checker) |
 # Hash Table
 |  |
 | ------- |
@@ -63,3 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/imvinayakshukla/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/imvinayakshukla/LeetCode/tree/master/1137-height-checker) |
