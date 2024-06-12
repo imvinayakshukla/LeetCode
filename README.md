@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/imvinayakshukla/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/imvinayakshukla/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/imvinayakshukla/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0148-sort-list) |
 | [1137-height-checker](https://github.com/imvinayakshukla/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/imvinayakshukla/LeetCode/tree/master/1217-relative-sort-array) |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/imvinayakshukla/LeetCode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/imvinayakshukla/LeetCode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/imvinayakshukla/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
