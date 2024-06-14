@@ -13,8 +13,6 @@ class Solution {
            }
 
         }
-        for(int a:nums)
-        System.out.print(a);
         return count;
 
 
