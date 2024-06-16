@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/imvinayakshukla/LeetCode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/imvinayakshukla/LeetCode/tree/master/0162-find-peak-element) |
+| [0330-patching-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/imvinayakshukla/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/imvinayakshukla/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/imvinayakshukla/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
