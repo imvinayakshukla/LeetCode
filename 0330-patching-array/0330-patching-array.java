@@ -1,21 +1,20 @@
 class Solution {
     public int minPatches(int[] nums, int n) {
-        long coverage = 1;
-        int patches = 0;
-        int index = 0;
+          int ans = 0;
+    int i = 0;     // nums' index
+    long miss = 1; // the minimum sum in [1, n] we might miss
 
-        while (coverage <= n) {
-            if (index < nums.length && nums[index] <= coverage) {
+    while (miss <= n)
+      if (i < nums.length && nums[i] <= miss) {
+        miss += nums[i++];
+      } else {
+        // Greedily add `miss` itself to increase the range from
+        // [1, miss) to [1, 2 * miss).
+        miss += miss;
+        ++ans;
+      }
 
-                coverage += nums[index++];
-            } else {
-
-                patches++;
-
-                coverage <<= 1;
-            }
-        }
-        return patches;
+    return ans;
 
     }
 }
