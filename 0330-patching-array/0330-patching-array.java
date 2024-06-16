@@ -1,21 +1,27 @@
 class Solution {
     public int minPatches(int[] nums, int n) {
-        long coverage = 1;
-        int patches = 0;
-        int index = 0;
+         int count = 0;
+        int i = 0;
+        long reach = 0;
+        while(reach<n) {
 
-        while (coverage <= n) {
-            if (index < nums.length && nums[index] <= coverage) {
-
-                coverage += nums[index++];
-            } else {
-
-                patches++;
-
-                coverage <<= 1;
+            if (i>=nums.length) {
+                // keep on adding the lowest no
+                System.out.println("El to be patched "+ (reach+1));
+                reach += reach+1;
+                count++;
             }
-        }
-        return patches;
+            else if(i < nums.length && nums[i] <= (reach+1)) {
+                reach += nums[i];
+                i++;
+            } else {
+                System.out.println(" El missing, hence patching "+ (reach+1));
+                reach += reach+1;
+                count++;
 
+            }
+
+        }
+        return count;
     }
 }
