@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/imvinayakshukla/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/imvinayakshukla/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0633-sum-of-square-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 # Divide and Conquer
 |  |
@@ -64,12 +65,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/imvinayakshukla/LeetCode/tree/master/0162-find-peak-element) |
 | [0441-arranging-coins](https://github.com/imvinayakshukla/LeetCode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
 # Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0002-add-two-numbers) |
 | [0441-arranging-coins](https://github.com/imvinayakshukla/LeetCode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Recursion
 |  |
 | ------- |
