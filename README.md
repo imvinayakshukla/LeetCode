@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/imvinayakshukla/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 # Divide and Conquer
 |  |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/imvinayakshukla/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0148-sort-list) |
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/imvinayakshukla/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/imvinayakshukla/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/imvinayakshukla/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/imvinayakshukla/LeetCode/tree/master/1217-relative-sort-array) |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
+| [0853-most-profit-assigning-work](https://github.com/imvinayakshukla/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/imvinayakshukla/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/imvinayakshukla/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/imvinayakshukla/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/imvinayakshukla/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
+| [0853-most-profit-assigning-work](https://github.com/imvinayakshukla/LeetCode/tree/master/0853-most-profit-assigning-work) |
 # Math
 |  |
 | ------- |
@@ -108,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0330-patching-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/imvinayakshukla/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/imvinayakshukla/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/imvinayakshukla/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
