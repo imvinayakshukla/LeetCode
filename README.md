@@ -109,3 +109,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0344-reverse-string) |
+# Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/imvinayakshukla/LeetCode/tree/master/0225-implement-stack-using-queues) |
+# Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/imvinayakshukla/LeetCode/tree/master/0225-implement-stack-using-queues) |
+# Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/imvinayakshukla/LeetCode/tree/master/0225-implement-stack-using-queues) |
