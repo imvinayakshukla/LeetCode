@@ -4,12 +4,11 @@ class Solution {
 
         HashMap<Integer,Integer> mp=new HashMap<>();
 
-       for(int i:hours)
+      for(int i:hours)
        {
-          int mod = i % 24;
-            int complement = (24 - mod) % 24;
-            count += mp.getOrDefault(complement, 0);
-            mp.put(mod, mp.getOrDefault(mod, 0) + 1);
+        i%=24;
+        count+=mp.getOrDefault(((24-i)%24),0);
+        mp.put(i,mp.getOrDefault(i,0)+1);
         
        }
 
