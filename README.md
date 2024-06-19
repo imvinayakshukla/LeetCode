@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/imvinayakshukla/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/imvinayakshukla/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/imvinayakshukla/LeetCode/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/imvinayakshukla/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/imvinayakshukla/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/imvinayakshukla/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/imvinayakshukla/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/imvinayakshukla/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Math
 |  |
 | ------- |
