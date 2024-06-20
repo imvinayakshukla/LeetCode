@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/imvinayakshukla/LeetCode/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/imvinayakshukla/LeetCode/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/imvinayakshukla/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
@@ -146,3 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/imvinayakshukla/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/imvinayakshukla/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+# Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/imvinayakshukla/LeetCode/tree/master/0278-first-bad-version) |
