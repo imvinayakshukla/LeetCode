@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0330-patching-array) |
 | [0496-next-greater-element-i](https://github.com/imvinayakshukla/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
+| [0560-subarray-sum-equals-k](https://github.com/imvinayakshukla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/imvinayakshukla/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/imvinayakshukla/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/imvinayakshukla/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/imvinayakshukla/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/imvinayakshukla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/imvinayakshukla/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/imvinayakshukla/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/imvinayakshukla/LeetCode/tree/master/1217-relative-sort-array) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/imvinayakshukla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/imvinayakshukla/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Counting Sort
 |  |
