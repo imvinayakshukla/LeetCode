@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/imvinayakshukla/LeetCode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/imvinayakshukla/LeetCode/tree/master/0162-find-peak-element) |
+| [0239-sliding-window-maximum](https://github.com/imvinayakshukla/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0330-patching-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0330-patching-array) |
 | [0496-next-greater-element-i](https://github.com/imvinayakshukla/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/imvinayakshukla/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
 # String
 |  |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/imvinayakshukla/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/imvinayakshukla/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/imvinayakshukla/LeetCode/tree/master/0239-sliding-window-maximum) |
 # Interactive
 |  |
 | ------- |
@@ -178,7 +181,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/imvinayakshukla/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/imvinayakshukla/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/imvinayakshukla/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+# Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/imvinayakshukla/LeetCode/tree/master/0239-sliding-window-maximum) |
