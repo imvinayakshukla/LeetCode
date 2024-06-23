@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/imvinayakshukla/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0148-sort-list) |
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
+| [0594-longest-harmonious-subsequence](https://github.com/imvinayakshukla/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0853-most-profit-assigning-work](https://github.com/imvinayakshukla/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/imvinayakshukla/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/imvinayakshukla/LeetCode/tree/master/1137-height-checker) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/imvinayakshukla/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/imvinayakshukla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/imvinayakshukla/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/imvinayakshukla/LeetCode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/imvinayakshukla/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0966-binary-subarrays-with-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/imvinayakshukla/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/imvinayakshukla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/imvinayakshukla/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/imvinayakshukla/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/imvinayakshukla/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting Sort
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/imvinayakshukla/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/imvinayakshukla/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/imvinayakshukla/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1137-height-checker](https://github.com/imvinayakshukla/LeetCode/tree/master/1137-height-checker) |
@@ -186,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/imvinayakshukla/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/imvinayakshukla/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/imvinayakshukla/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/imvinayakshukla/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
