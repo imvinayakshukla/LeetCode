@@ -1,7 +1,7 @@
 class Solution {
     public int sumSubarrayMins(int[] arr) {
         int sum=0;
-        Deque<Integer> st = new ArrayDeque<>();
+        Stack<Integer> st = new Stack<>();
         int left[]=new int[arr.length];
         int right[]=new int[arr.length];
 
