@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0148-sort-list) |
+| [1285-balance-a-binary-search-tree](https://github.com/imvinayakshukla/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Sorting
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/imvinayakshukla/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/imvinayakshukla/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/imvinayakshukla/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/imvinayakshukla/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/imvinayakshukla/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
 |  |
@@ -219,15 +221,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/imvinayakshukla/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/imvinayakshukla/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/imvinayakshukla/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/imvinayakshukla/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/imvinayakshukla/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/imvinayakshukla/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/imvinayakshukla/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/imvinayakshukla/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
