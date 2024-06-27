@@ -244,3 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/imvinayakshukla/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/imvinayakshukla/LeetCode/tree/master/1916-find-center-of-star-graph) |
