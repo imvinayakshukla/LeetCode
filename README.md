@@ -320,4 +320,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/imvinayakshukla/LeetCode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
