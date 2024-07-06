@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/imvinayakshukla/LeetCode/tree/master/0735-asteroid-collision) |
 | [1293-three-consecutive-odds](https://github.com/imvinayakshukla/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/imvinayakshukla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3469-maximum-height-of-a-triangle](https://github.com/imvinayakshukla/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,4 +343,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0735-asteroid-collision](https://github.com/imvinayakshukla/LeetCode/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imvinayakshukla/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/imvinayakshukla/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
