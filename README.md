@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0648-replace-words) |
+| [0726-number-of-atoms](https://github.com/imvinayakshukla/LeetCode/tree/master/0726-number-of-atoms) |
 ## Two Pointers
 |  |
 | ------- |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/imvinayakshukla/LeetCode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/imvinayakshukla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/imvinayakshukla/LeetCode/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0648-replace-words) |
+| [0726-number-of-atoms](https://github.com/imvinayakshukla/LeetCode/tree/master/0726-number-of-atoms) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imvinayakshukla/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/imvinayakshukla/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/imvinayakshukla/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -356,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/imvinayakshukla/LeetCode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/imvinayakshukla/LeetCode/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imvinayakshukla/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/imvinayakshukla/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
