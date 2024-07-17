@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/imvinayakshukla/LeetCode/tree/master/0402-remove-k-digits) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/imvinayakshukla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/imvinayakshukla/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0072-edit-distance) |
+| [0402-remove-k-digits](https://github.com/imvinayakshukla/LeetCode/tree/master/0402-remove-k-digits) |
 | [0648-replace-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/imvinayakshukla/LeetCode/tree/master/0726-number-of-atoms) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imvinayakshukla/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/imvinayakshukla/LeetCode/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/imvinayakshukla/LeetCode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/imvinayakshukla/LeetCode/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imvinayakshukla/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -411,4 +414,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0072-edit-distance) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/imvinayakshukla/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
