@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/imvinayakshukla/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/imvinayakshukla/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/imvinayakshukla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2227-sum-of-subarray-ranges](https://github.com/imvinayakshukla/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/imvinayakshukla/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/imvinayakshukla/LeetCode/tree/master/2846-robot-collisions) |
 | [3469-maximum-height-of-a-triangle](https://github.com/imvinayakshukla/LeetCode/tree/master/3469-maximum-height-of-a-triangle) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/imvinayakshukla/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/imvinayakshukla/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/imvinayakshukla/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2227-sum-of-subarray-ranges](https://github.com/imvinayakshukla/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2846-robot-collisions](https://github.com/imvinayakshukla/LeetCode/tree/master/2846-robot-collisions) |
 ## Enumeration
 |  |
@@ -424,4 +426,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/imvinayakshukla/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/imvinayakshukla/LeetCode/tree/master/0402-remove-k-digits) |
+| [2227-sum-of-subarray-ranges](https://github.com/imvinayakshukla/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
