@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/imvinayakshukla/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/imvinayakshukla/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/imvinayakshukla/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imvinayakshukla/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1642-water-bottles](https://github.com/imvinayakshukla/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/imvinayakshukla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
