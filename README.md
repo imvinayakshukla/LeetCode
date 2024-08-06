@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/imvinayakshukla/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/imvinayakshukla/LeetCode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/imvinayakshukla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/imvinayakshukla/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/imvinayakshukla/LeetCode/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/imvinayakshukla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/imvinayakshukla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/imvinayakshukla/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -412,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/imvinayakshukla/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/imvinayakshukla/LeetCode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/imvinayakshukla/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3379-score-of-a-string](https://github.com/imvinayakshukla/LeetCode/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
@@ -518,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0948-sort-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Shortest Path
 |  |
 | ------- |
