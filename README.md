@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/imvinayakshukla/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/imvinayakshukla/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0940-fruit-into-baskets](https://github.com/imvinayakshukla/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/imvinayakshukla/LeetCode/tree/master/1036-rotting-oranges) |
 | [1196-filling-bookcase-shelves](https://github.com/imvinayakshukla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0648-replace-words) |
 | [0726-number-of-atoms](https://github.com/imvinayakshukla/LeetCode/tree/master/0726-number-of-atoms) |
+| [0940-fruit-into-baskets](https://github.com/imvinayakshukla/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/imvinayakshukla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/imvinayakshukla/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/imvinayakshukla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/imvinayakshukla/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0940-fruit-into-baskets](https://github.com/imvinayakshukla/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Heap (Priority Queue)
 |  |
