@@ -38,12 +38,9 @@ class Solution {
                     add(result, i++, rStart, cStart);
             }
 
-            // Reverse the horizontal direction
             horizontal *= -1;
-            // Increment horizontal counter
             hCtr++;
 
-            // Similary, repeat the steps for vertical direction
             for (int k = 0; k < vCtr; k++) {
                 rStart += vertical;
                 if (rStart < rows && rStart >= 0 && cStart >= 0 && cStart < cols)
