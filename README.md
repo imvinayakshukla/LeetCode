@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/imvinayakshukla/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/imvinayakshukla/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/imvinayakshukla/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0213-house-robber-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0213-house-robber-ii) |
@@ -606,4 +608,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/imvinayakshukla/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/imvinayakshukla/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
