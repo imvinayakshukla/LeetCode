@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/imvinayakshukla/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/imvinayakshukla/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/imvinayakshukla/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/imvinayakshukla/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/imvinayakshukla/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/imvinayakshukla/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -629,4 +631,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imvinayakshukla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/imvinayakshukla/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
