@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/imvinayakshukla/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/imvinayakshukla/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/imvinayakshukla/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
@@ -543,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/imvinayakshukla/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0213-house-robber-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/imvinayakshukla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
