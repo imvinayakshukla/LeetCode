@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/imvinayakshukla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/imvinayakshukla/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -640,4 +641,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/imvinayakshukla/LeetCode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
