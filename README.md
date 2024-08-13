@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/imvinayakshukla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/imvinayakshukla/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/imvinayakshukla/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0120-triangle) |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/imvinayakshukla/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/imvinayakshukla/LeetCode/tree/master/0136-single-number) |
 ## Quickselect
 |  |
@@ -655,4 +657,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/imvinayakshukla/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
