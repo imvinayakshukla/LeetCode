@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/imvinayakshukla/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/imvinayakshukla/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0948-sort-an-array) |
+| [0967-minimum-falling-path-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/imvinayakshukla/LeetCode/tree/master/1036-rotting-oranges) |
 | [1196-filling-bookcase-shelves](https://github.com/imvinayakshukla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/imvinayakshukla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -531,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/imvinayakshukla/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/imvinayakshukla/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0967-minimum-falling-path-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/imvinayakshukla/LeetCode/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/imvinayakshukla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/imvinayakshukla/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/imvinayakshukla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/imvinayakshukla/LeetCode/tree/master/1511-count-number-of-teams) |
