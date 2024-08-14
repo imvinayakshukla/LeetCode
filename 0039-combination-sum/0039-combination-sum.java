@@ -4,7 +4,8 @@ class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         ans = new ArrayList<>();
         cal(0, candidates, target, new ArrayList<Integer>());
-        return ans;
+           List<List<Integer>> list = new ArrayList<>(ans);
+        return list;
 
     }
 
