@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2227-sum-of-subarray-ranges](https://github.com/imvinayakshukla/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/imvinayakshukla/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/imvinayakshukla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/imvinayakshukla/LeetCode/tree/master/2502-sort-the-people) |
 | [2591-frog-jump-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/2591-frog-jump-ii) |
