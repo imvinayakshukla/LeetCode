@@ -1,22 +1,25 @@
 class Solution {
     public int countHillValley(int[] nums) {
         int n = nums.length;
-        if (n == 0)
-            return 0;
+        if (n == 0) return 0;
 
         int count = 0;
-        for (int i = 1; i < n - 1; i++) {
-            if (nums[i] == nums[i - 1])
-                continue;
-            int left = i - 1;
-            int right = i + 1;
-            while (right < n && nums[right] == nums[i])
+        int left = 0;
+        int right = 2;
+
+        while (right < n) {
+            if (nums[right] == nums[right - 1]) {
                 right++;
-            if (right == n)
-                break;
-            if ((nums[i] > nums[left] && nums[i] > nums[right]) || (nums[i] < nums[left] && nums[i] < nums[right])) {
+                continue;
+            }
+
+            if ((nums[right - 1] > nums[left] && nums[right - 1] > nums[right]) ||
+                (nums[right - 1] < nums[left] && nums[right - 1] < nums[right])) {
                 count++;
             }
+
+            left = right - 1;
+            right++;
         }
 
         return count;
