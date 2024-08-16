@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/imvinayakshukla/LeetCode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/imvinayakshukla/LeetCode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0648-replace-words) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/imvinayakshukla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/imvinayakshukla/LeetCode/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imvinayakshukla/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/imvinayakshukla/LeetCode/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/imvinayakshukla/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0948-sort-an-array) |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/imvinayakshukla/LeetCode/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/imvinayakshukla/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/imvinayakshukla/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/imvinayakshukla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/imvinayakshukla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
