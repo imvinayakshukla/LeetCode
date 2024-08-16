@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/imvinayakshukla/LeetCode/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0624-maximum-distance-in-arrays](https://github.com/imvinayakshukla/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0648-replace-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/imvinayakshukla/LeetCode/tree/master/0735-asteroid-collision) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0402-remove-k-digits](https://github.com/imvinayakshukla/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/imvinayakshukla/LeetCode/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/imvinayakshukla/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/imvinayakshukla/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/imvinayakshukla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/imvinayakshukla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
