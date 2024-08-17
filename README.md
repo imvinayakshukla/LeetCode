@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/imvinayakshukla/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/imvinayakshukla/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/imvinayakshukla/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/imvinayakshukla/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/imvinayakshukla/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
