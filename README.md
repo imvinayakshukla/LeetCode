@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/imvinayakshukla/LeetCode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/imvinayakshukla/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0264-ugly-number-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0648-replace-words) |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/imvinayakshukla/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/imvinayakshukla/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0870-magic-squares-in-grid](https://github.com/imvinayakshukla/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -588,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/imvinayakshukla/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/imvinayakshukla/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/imvinayakshukla/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/imvinayakshukla/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/imvinayakshukla/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/imvinayakshukla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0948-sort-an-array) |
 ## Monotonic Queue
