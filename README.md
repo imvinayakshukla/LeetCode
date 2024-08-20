@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/imvinayakshukla/LeetCode/tree/master/1036-rotting-oranges) |
 | [1196-filling-bookcase-shelves](https://github.com/imvinayakshukla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/imvinayakshukla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/imvinayakshukla/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/imvinayakshukla/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/imvinayakshukla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/imvinayakshukla/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/imvinayakshukla/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/imvinayakshukla/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/imvinayakshukla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/imvinayakshukla/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1240-stone-game-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/1240-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -602,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/imvinayakshukla/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/imvinayakshukla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/imvinayakshukla/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/imvinayakshukla/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -711,4 +715,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/imvinayakshukla/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/imvinayakshukla/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
