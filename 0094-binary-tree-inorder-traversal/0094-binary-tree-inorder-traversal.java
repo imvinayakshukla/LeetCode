@@ -6,16 +6,13 @@ class Solution {
         TreeNode current = root;
         
         while (current != null || !st.empty()) {
-            // Reach the leftmost TreeNode
             while (current != null) {
                 st.push(current);
                 current = current.left;
             }
-            // Current must be null at this point
             current = st.pop();
-            list.add(current.val);  // Add the node's value
+            list.add(current.val); 
             
-            // Visit the right subtree
             current = current.right;
         }
         return list;
