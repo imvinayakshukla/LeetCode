@@ -26,8 +26,7 @@ class Solution {
 
       
         while (!st.empty()) {
-            // Get the current node
-            // from the top of the stack
+          
             root = st.pop();
 
            
