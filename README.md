@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0648-replace-words) |
 | [0664-strange-printer](https://github.com/imvinayakshukla/LeetCode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/imvinayakshukla/LeetCode/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/imvinayakshukla/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/imvinayakshukla/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/imvinayakshukla/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -755,4 +756,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/1240-stone-game-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
