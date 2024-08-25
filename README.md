@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/imvinayakshukla/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/imvinayakshukla/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0072-edit-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/imvinayakshukla/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/imvinayakshukla/LeetCode/tree/master/0402-remove-k-digits) |
 | [0564-find-the-closest-palindrome](https://github.com/imvinayakshukla/LeetCode/tree/master/0564-find-the-closest-palindrome) |
