@@ -14,23 +14,26 @@
  * }
  */
 class Solution {
-    public static void right(TreeNode root, int level, ArrayList<Integer> list) {
-        if (root == null)
+    public List<Integer> rightSideView(TreeNode root) {
+    List<Integer>ans=new ArrayList<>();
+    find(root,ans,0);
+    return ans;
+
+
+        
+        
+    }
+    public void find(TreeNode root,List<Integer>list,int level)
+    {
+        if(root==null)
             return;
 
-        if (level == list.size())
-            list.add(root.val);
-            
-        right(root.right, level + 1, list);
-        right(root.left, level + 1, list);
+            if(level==list.size())
+                list.add(root.val);
+        find(root.right,list,level+1);
+        find(root.left,list,level+1);
 
-    }
 
-    public List<Integer> rightSideView(TreeNode root) {
-        int level = 0;
-        ArrayList<Integer> list = new ArrayList<>();
-        right(root, level, list);
 
-        return list;
     }
 }
