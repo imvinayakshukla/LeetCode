@@ -15,14 +15,12 @@ class Solution {
                 start = i + 1;
             }
         }
-        // Add the last word after the final space
         if (start < s.length()) {
             words.add(s.substring(start));
         }
 
-        Collections.reverse(words); // Reverse the list of words
+        Collections.reverse(words); 
         
-        // Join the words with a single space
         return String.join(" ", words);
     }
 }
