@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/imvinayakshukla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/imvinayakshukla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/imvinayakshukla/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/imvinayakshukla/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2591-frog-jump-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/2591-frog-jump-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/imvinayakshukla/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/imvinayakshukla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/imvinayakshukla/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2645-pass-the-pillow](https://github.com/imvinayakshukla/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
 |  |
@@ -557,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/imvinayakshukla/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/imvinayakshukla/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/imvinayakshukla/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/imvinayakshukla/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/imvinayakshukla/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/imvinayakshukla/LeetCode/tree/master/2502-sort-the-people) |
