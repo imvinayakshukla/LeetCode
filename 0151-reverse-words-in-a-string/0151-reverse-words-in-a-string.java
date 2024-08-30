@@ -3,13 +3,13 @@ import java.util.Collections;
 
 class Solution {
     public String reverseWords(String s) {
-        s = s.trim(); // Trim leading and trailing spaces
+        s = s.trim(); 
         ArrayList<String> words = new ArrayList<>();
         int start = 0;
         
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == ' ') {
-                if (i > start) { // This check ensures we don't add empty strings (multiple spaces)
+                if (i > start) { 
                     words.add(s.substring(start, i));
                 }
                 start = i + 1;
