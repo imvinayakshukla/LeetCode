@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/imvinayakshukla/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/imvinayakshukla/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/imvinayakshukla/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/imvinayakshukla/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/imvinayakshukla/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
