@@ -528,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/imvinayakshukla/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/imvinayakshukla/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/1240-stone-game-ii) |
+| [1585-the-kth-factor-of-n](https://github.com/imvinayakshukla/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/imvinayakshukla/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/imvinayakshukla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/imvinayakshukla/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -839,4 +840,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/imvinayakshukla/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
