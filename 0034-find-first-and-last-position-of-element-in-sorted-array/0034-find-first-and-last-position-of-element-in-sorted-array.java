@@ -7,6 +7,7 @@ class Solution {
         while (low <= high) {
             mid = low + (high - low) / 2;
             if (nums[mid] == target) {
+                
                 pos = mid;
                 low = mid + 1;
             }
@@ -18,24 +19,25 @@ class Solution {
             }
         }
 
-       a[1]=pos;
+        a[1] = pos;
 
-    low=0;
-    high=nums.length-1;
-    pos=-1;
+        low = 0;
+        high = nums.length - 1;
+        pos = -1;
 
         while (low <= high) {
             mid = low + (high - low) / 2;
-            
-            if(nums[mid]>=target){
-           if (nums[mid] == target) 
-           pos = mid;  
-            high=mid-1;
-            }
-            else
-            low=mid+1;
-            }
-        a[0]=pos;
+            if (nums[mid] == target)
+                    pos = mid;
 
-    return a;
-}}
+            if (nums[mid] >= target) {
+                
+                high = mid - 1;
+            } else
+                low = mid + 1;
+        }
+        a[0] = pos;
+
+        return a;
+    }
+}
