@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/imvinayakshukla/LeetCode/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/imvinayakshukla/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1196-filling-bookcase-shelves](https://github.com/imvinayakshukla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/imvinayakshukla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/1240-stone-game-ii) |
@@ -466,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0907-koko-eating-bananas](https://github.com/imvinayakshukla/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/imvinayakshukla/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/imvinayakshukla/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/imvinayakshukla/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2591-frog-jump-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/2591-frog-jump-ii) |
