@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0648-replace-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/imvinayakshukla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/imvinayakshukla/LeetCode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/imvinayakshukla/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/imvinayakshukla/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/imvinayakshukla/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/imvinayakshukla/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -726,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/imvinayakshukla/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/imvinayakshukla/LeetCode/tree/master/0664-strange-printer) |
+| [0747-min-cost-climbing-stairs](https://github.com/imvinayakshukla/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/imvinayakshukla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/imvinayakshukla/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/imvinayakshukla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
