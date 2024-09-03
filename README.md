@@ -421,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/imvinayakshukla/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/imvinayakshukla/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/imvinayakshukla/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/imvinayakshukla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/imvinayakshukla/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/imvinayakshukla/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/imvinayakshukla/LeetCode/tree/master/0242-valid-anagram) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/imvinayakshukla/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/imvinayakshukla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/imvinayakshukla/LeetCode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/imvinayakshukla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/imvinayakshukla/LeetCode/tree/master/0283-move-zeroes) |
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/imvinayakshukla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/imvinayakshukla/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/imvinayakshukla/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
