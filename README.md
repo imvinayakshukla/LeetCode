@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/imvinayakshukla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/imvinayakshukla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/imvinayakshukla/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/imvinayakshukla/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/imvinayakshukla/LeetCode/tree/master/0392-is-subsequence) |
@@ -517,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/imvinayakshukla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/imvinayakshukla/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/imvinayakshukla/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -607,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/imvinayakshukla/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imvinayakshukla/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imvinayakshukla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/imvinayakshukla/LeetCode/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/imvinayakshukla/LeetCode/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/imvinayakshukla/LeetCode/tree/master/0735-asteroid-collision) |
@@ -627,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/imvinayakshukla/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/imvinayakshukla/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/imvinayakshukla/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/imvinayakshukla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
