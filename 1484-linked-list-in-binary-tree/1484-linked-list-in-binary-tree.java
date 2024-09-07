@@ -44,7 +44,7 @@ class Solution {
     {
         if(temp==null)
         return true;
-        
+
         if(root==null)
         return false;
         
@@ -55,10 +55,10 @@ class Solution {
 
         }
 
-        // boolean l=check(temp.next,root.left);
-        // boolean r=check(temp.next,root.right);
+        boolean l=check(temp.next,root.left);
+        boolean r=check(temp.next,root.right);
 
         
-           return check(temp.next, root.left) || check(temp.next, root.right);
+           return l || r;
     }
 }
