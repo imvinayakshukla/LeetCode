@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/imvinayakshukla/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/imvinayakshukla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/imvinayakshukla/LeetCode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/imvinayakshukla/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2591-frog-jump-ii](https://github.com/imvinayakshukla/LeetCode/tree/master/2591-frog-jump-ii) |
 | [2846-robot-collisions](https://github.com/imvinayakshukla/LeetCode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/imvinayakshukla/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -859,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/imvinayakshukla/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/imvinayakshukla/LeetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/imvinayakshukla/LeetCode/tree/master/0476-number-complement) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/imvinayakshukla/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Quickselect
 |  |
 | ------- |
@@ -928,4 +930,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1801-average-time-of-process-per-machine](https://github.com/imvinayakshukla/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/imvinayakshukla/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/imvinayakshukla/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/imvinayakshukla/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
